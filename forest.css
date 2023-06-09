@@ -1,0 +1,471 @@
+.align-center {
+    text-align: center;
+  }
+
+.v-align-middle {
+    vertical-align: middle;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.margin-right-0 {
+    margin-right: 0 !important;
+}
+
+.margin-left-0 {
+    margin-left: 0 !important;
+}
+
+.margin-minus-15 {
+    margin: -15px;
+}
+
+.clearfix:after, .clearfix:before {
+    content: '';
+    display: table;
+    clear: both;
+}
+.shading-white {
+    color: #ffffff;
+}
+.section-9 {
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/503e2657e28355119e3107fa/fgfg-min.jpg);
+}
+.section-backpos {
+    background-position: 50% 50%;
+}
+
+.box-sizing {
+    box-sizing: border-box; 
+} 
+
+.sheet-width {
+    width: 1140px;
+}
+.sheet-margin {
+    margin: 0 auto;
+}
+.sheet-1 {
+    min-height: 879px;
+  }
+
+
+.text-5-top {
+    margin-top: 0;
+}
+.text-5-bottom {
+    margin-bottom: 0;
+}
+.text {
+    word-wrap: break-word;
+}
+
+.repeater {
+    display: grid;
+    grid-template-columns: repeat(3, 33.33333333%);
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: auto;
+}
+
+.repeater-1 {
+    min-height: 254px;
+    grid-template-columns: repeat(4, 25%);
+    grid-gap: 0px;
+}
+
+.body {
+    color: #111111;
+    background-color: #ffffff;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.pos-relative {
+    position: relative;
+}
+.body-height {
+    height: auto;
+}
+.min-height-100 {
+    min-height: 100%;
+}
+
+.min-height-fit {
+    min-height: fit-content;
+}
+
+.body-margin-0 {
+    margin: 0;
+}
+
+.border-left-0 {
+    border-left: 0 !important;
+}
+
+.border-right-0 {
+    border-right: 0 !important;
+}
+
+.border-15 {
+    border: 15px solid transparent;
+}
+
+.disp-flex {
+    display: flex !important;
+}
+
+.disp-inline {
+    display: inline;
+}
+
+.flex-1 {
+    flex: 1 1 100%;
+}
+
+.max-width-100 {
+    max-width: 100%;
+}
+
+.flex-dir-column {
+    flex-direction: column;
+}
+
+.flex-dir-row {
+    flex-direction: row;
+}
+
+.list-1 {
+    width: 981px;
+  }
+
+.list-1-margin {
+    margin: 108px auto 0;
+  }
+
+.container-layout-1 {
+    padding: 10px 20px;
+  }
+
+
+.text-1 {
+    box-shadow: 0px 0px 0 0 rgba(0,0,0,0);
+    width: 867px;
+    font-weight: 700;
+    letter-spacing: normal;
+    font-size: 3.75rem;
+    margin: 267px auto 0;
+}
+
+.text-2 {
+    font-weight: 400;
+}
+
+.text-2-margin {
+    margin: 20px auto;
+}
+
+.custom-font {
+    font-family: Montserrat, sans-serif;
+}
+
+.disp-table {
+    display: table;
+}
+
+.align-self {
+    align-self: flex-start;
+}
+
+h2 {
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding:0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h4 {
+    font-size: 1.5rem;
+    line-height: 1.2;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.text-3 {
+    font-weight: 400;
+    font-style: italic;
+    margin: 20px 0 0;
+}
+
+.p-margin-top-0 {
+    margin-top: 0;
+}
+.p-padding-0 {
+    padding: 0
+}
+.p-margin-bottom-05 {
+    margin-bottom: 0.5rem;
+}
+
+.btn-1 {
+    font-size: 0.875rem;
+    background-image: none;
+    border-style: none;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 40px auto 0;
+    padding: 10px 30px;
+    white-space: nowrap;
+    border: 0 none transparent;
+    outline-width: 0;
+    text-decoration: none;
+}
+
+.btn-5-border {
+    border-style: none none solid;
+}
+
+.btn-5-font {
+    font-style: normal;
+}
+
+.padding-0 {
+    padding: 0;
+}
+
+.color-ff {
+    color: #ffffff;
+}
+
+.color-back-green {
+    background-color: #84c0a0;
+}
+
+.border-none {
+    border-width: 0 !important;
+}
+
+.border-1 {
+    border-width: 1px;
+}
+
+.border-solid {
+    border-style:solid;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.radius-50 {
+    border-radius: 50px !important;
+}
+
+.flex-shrink-0 {
+    flex-shrink: 0;
+}
+
+.btn-round {
+    border-radius: 4px;
+}
+
+.btn-padding {
+    padding: 10px 30px;
+}
+
+.freepik-width {
+    width: 614px;
+}
+
+.freepik-margin {
+    margin: 29px auto 60px;
+}
+
+.layout-wrap-width {
+    width: 1109px;
+}
+
+.layout-wrap-margin {
+    margin: 60px auto;
+}
+
+.image-2 {
+    background-image: url(https://images01.nicepage.com/98/69/98697f8a5035ec93bad682b65a13f41c.jpeg);
+}
+
+.image-2-height {
+    min-height: 480px;
+}
+
+.image {
+    object-fit: cover;
+    display: block;
+    vertical-align: middle;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: visible;
+}
+
+.back-clip {
+    background-clip: padding-box;
+}
+
+.back-transparent {
+    background-color: transparent;
+}
+
+.back-origin {
+    background-origin: padding-box;
+}
+
+.grey-5 {
+    color: #111111;
+}
+
+.back-color-f2 {
+    background-color: #f2f2f2;
+}
+
+.layout-cell-2 {
+    min-height: 396px;
+  }
+.layout-cell-3 {
+    min-height: 345px;
+}
+
+.container-layout-2 {
+    padding: 30px 50px;
+  }
+
+.container-layout-3 {
+    padding: 30px 40px;
+}
+
+.border-3 {
+    border-width: 3px;
+}
+
+.border-color-green {
+    border-color: #84c0a0;
+}
+
+.border-stroke-green {
+    stroke: #84c0a0;
+}
+
+.border-color-white {
+    border-color: #ffffff
+}
+
+.border-color-transparent {
+    border-color: transparent;
+}
+
+.text-2-font-size {
+    font-size: 1.25rem;
+  }
+
+.text-22-margin {
+    margin: 47px 0 0;
+  }
+
+.text-4 {
+    font-weight: 400;
+}
+
+.text-4-font-size {
+    font-size: 1.875rem;
+}
+
+.text-4-line-height {
+    line-height: 1.4;
+}
+
+.text-4-margin {
+    margin: -25px 1px 0 22px;
+}
+
+.text-grey-15 {
+    color: #d9d9d9;
+}
+
+.icon-circle {
+    border-radius: 50%;
+}
+
+.image-3 {
+    background-image: url(https://images01.nicepage.com/2f/a5/2fa540df7187a7eeb5f596f9d0726e2d.jpeg);
+}
+
+.image-3-height {
+    min-height: 392px;
+}
+
+.back-pos-50-50 {
+    background-position: 50% 50%;
+}
+
+.flex-55 {
+    flex: 0 0 55%;
+}
+
+.max-width-55 {
+    max-width: 55%; 
+}
+
+.min-width-55 {
+    min-width: 55%;
+}
+
+.flex-45 {
+    flex: 0 0 45%;
+}
+
+.max-width-45 {
+    max-width: 45%; 
+}
+
+.min-width-45 {
+    min-width: 45%;
+}
+
+.flex-35 {
+    flex: 0 0 35%;
+}
+
+.max-width-35 {
+    max-width: 35%; 
+}
+
+.min-width-35 {
+    min-width: 35%;
+}
+
+.flex-30-50 {
+    flex: 30 0 50%;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.flex-65 {
+    flex: 0 0 65%;
+}
+
+.max-width-65 {
+    max-width: 65%; 
+}
+
+.min-width-65 {
+    min-width: 65%;
+}
